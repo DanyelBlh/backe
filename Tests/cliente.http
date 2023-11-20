@@ -1,0 +1,9 @@
+## Cadastrar
+POST https://localhost:7176/api/cliente/cadastrar
+Content-Type: application/json
+
+{
+    "nome" : "teste",
+    "cpf" : "111111",
+    
+}
